@@ -1,0 +1,29 @@
+
+ ========================================
+ Usage Information
+ For: 0fdf3f72b526f247cefbc8ec30a68a2d782dd665
+ ========================================
+ Meter Reading Information
+ Type of readings: Electricity, Energy Consumption, Real energy in kilowatt-hours 
+ ========================================
+ Detailed Usage
+ ========================================
+ Start date: 2014-07-03 00:00 for 84 days
+ ========================================
+ Interval Blockdata for period starting:, 2014-07-03 00:00  for 25 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2014-07-03 00:00 to 2014-07-28 00:00,"1,995.000",207.88,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2014-07-28 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2014-07-28 00:00 to 2014-08-26 00:00,"2,175.000",235.12,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2014-08-26 00:00  for 30 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2014-08-26 00:00 to 2014-09-25 00:00,"2,079.000",224.26,
+  

@@ -1,0 +1,83 @@
+
+ ========================================
+ Usage Information
+ For: b5ee1a2a685f6e589f4fcbcde10005a387cab0cd
+ ========================================
+ Meter Reading Information
+ Type of readings: Electricity, Energy Consumption, Real energy in kilowatt-hours 
+ ========================================
+ Detailed Usage
+ ========================================
+ Start date: 2020-09-25 00:00 for 367 days
+ ========================================
+ Interval Blockdata for period starting:, 2020-09-25 00:00  for 32 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2020-09-25 00:00 to 2020-10-27 00:00,"1,307.000",124.41,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2020-10-27 00:00  for 24 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2020-10-27 00:00 to 2020-11-19 23:00,"1,759.000",160.12,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2020-11-20 00:00  for 38 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2020-11-20 00:00 to 2020-12-28 00:00,"3,120.000",267.63,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2020-12-28 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2020-12-28 00:00 to 2021-01-26 00:00,"2,412.000",175.52,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-01-26 00:00  for 28 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-01-26 00:00 to 2021-02-23 00:00,"2,263.000",165.98,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-02-23 00:00  for 31 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-02-23 00:00 to 2021-03-26 01:00,"2,178.000",160.54,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-03-26 00:00  for 32 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-03-26 00:00 to 2021-04-27 00:00,"2,258.000",194.74,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-04-27 00:00  for 28 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-04-27 00:00 to 2021-05-25 00:00,"2,173.000",188.21,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-05-25 00:00  for 31 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-05-25 00:00 to 2021-06-25 00:00,"2,761.000",289.77,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-06-25 00:00  for 32 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-06-25 00:00 to 2021-07-27 00:00,"2,754.000",289.00,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-07-27 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-07-27 00:00 to 2021-08-25 00:00,"2,984.000",320.79,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2021-08-25 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2021-08-25 00:00 to 2021-09-27 00:00,"2,694.000",294.92,
+  

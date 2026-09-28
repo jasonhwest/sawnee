@@ -1,0 +1,83 @@
+
+ ========================================
+ Usage Information
+ For: ab281803dc3bfa30062f572fef0f1bd420d4534d
+ ========================================
+ Meter Reading Information
+ Type of readings: Electricity, Energy Consumption, Real energy in kilowatt-hours 
+ ========================================
+ Detailed Usage
+ ========================================
+ Start date: 2015-08-26 00:00 for 366 days
+ ========================================
+ Interval Blockdata for period starting:, 2015-08-26 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2015-08-26 00:00 to 2015-09-28 00:00,"1,844.000",153.45,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2015-09-28 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2015-09-28 00:00 to 2015-10-27 00:00,934.000,70.29,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2015-10-27 00:00  for 28 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2015-10-27 00:00 to 2015-11-23 23:00,693.000,52.55,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2015-11-24 00:00  for 34 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2015-11-24 00:00 to 2015-12-28 00:00,"1,165.000",84.06,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2015-12-28 00:00  for 30 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2015-12-28 00:00 to 2016-01-27 00:00,957.000,77.25,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-01-27 00:00  for 28 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-01-27 00:00 to 2016-02-24 00:00,948.000,76.53,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-02-24 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-02-24 00:00 to 2016-03-28 01:00,"1,231.000",94.39,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-03-28 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-03-28 00:00 to 2016-04-26 00:00,"1,025.000",82.14,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-04-26 00:00  for 29 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-04-26 00:00 to 2016-05-25 00:00,"1,390.000",103.86,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-05-25 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-05-25 00:00 to 2016-06-27 00:00,"2,673.000",236.89,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-06-27 00:00  for 30 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-06-27 00:00 to 2016-07-27 00:00,"2,905.000",258.39,
+ 
+ ========================================
+ Interval Blockdata for period starting:, 2016-07-27 00:00  for 30 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2016-07-27 00:00 to 2016-08-26 00:00,"2,726.000",244.14,
+  
